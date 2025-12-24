@@ -74,7 +74,7 @@ If you use this repository or its contents in your research, please cite our wor
 
 ```bibtex
 @inproceedings{buzzetti2025multipolicy,
-  author    = {Buzzetti, Gabriele and Aractingi, Marwan and Zappetti, Daniele and Iacca, Giovanni},
+  author    = {Buzzetti, Giulia and Aractingi, Michel and Zappetti, Davide and Iacca, Giovanni},
   title     = {A Multi-policy Approach Based on Clustering for Minimizing the Damage on a Falling Ballbot},
   booktitle = {Proceedings of the 11th International Conference on Control, Decision and Information Technologies (CoDIT)},
   year      = {2025},
